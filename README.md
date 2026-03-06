@@ -12,6 +12,10 @@ A simple Rock Paper Scissors game developed using Python. In this game, the user
 - Scissors beats Paper
 - Paper beats Rock
 
+## Technologies 
+-python
+-Random module
+
 ## Author
 keerthi
 
